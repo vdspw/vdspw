@@ -1,7 +1,6 @@
 - 👋 Hi, I’m VISHNU DEEP PANDURANGARAO
 - 👀 I’m interested in VLSI design , computer architecture , FPGA and ASIC (Design and verification) 
 - 🌱 I’m currently learning design and verfiation techniques.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishnudeeprao@gmail.com
 - 😄 Pronouns: ...SOUTHPAW
   
