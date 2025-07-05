@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VISHNU DEEP PANDURANGARAO
+- 👋 Hi, I’m VISHNU DEEP PANDURANGARAO, MS EE (VLSI) SAN JOSE STATE UNIVERSITY , CA,USA
 - 👀 I’m interested in VLSI design , computer architecture , FPGA and ASIC (Design and verification) 
 - 🌱 I’m currently learning design and verfiation techniques.
 - 📫 How to reach me vishnudeeprao@gmail.com
